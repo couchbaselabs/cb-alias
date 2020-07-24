@@ -10,7 +10,7 @@ couchbase-server:
     release:  '6.5.1'
     stable:   '6.5.1'
   '6.6':
-    stable:   '6.6.0-7883'
+    stable:   '6.6.0-7897'
   '7.0':
     stable:   '7.0.0-2635'
 

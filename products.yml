@@ -12,7 +12,7 @@ couchbase-server:
   '6.6':
     stable:   '6.6.0-7897'
   '7.0':
-    stable:   '7.0.0-2635'
+    stable:   '7.0.0-2697'
 
 # Other_products:
 couchbase-operator:

@@ -5,13 +5,13 @@ couchbase-server:
     stable:   '5.5.6'
   '6.0':
     release:  '6.0.4'
-    stable:   '6.0.5-3333'
+    stable:   '6.0.5-3338'
   '6.5':
     release:  '6.5.1'
     stable:   '6.5.1'
   '6.6':
-    release:  '6.6.0'
-    stable:   '6.6.1-9210'
+    release:  '6.6.1'
+    stable:   '6.6.2-9409'
   '7.0':
     stable:   '7.0.0-3739'
 

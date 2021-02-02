@@ -8,12 +8,12 @@ couchbase-server:
     stable:   '6.0.5-3340'
   '6.5':
     release:  '6.5.1'
-    stable:   '6.5.2-6620'
+    stable:   '6.5.2-6625'
   '6.6':
     release:  '6.6.1'
     stable:   '6.6.2-9409'
   '7.0':
-    stable:   '7.0.0-4122'
+    stable:   '7.0.0-4342'
 
 # Other_products:
 couchbase-operator:

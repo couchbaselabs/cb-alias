@@ -7,13 +7,13 @@ couchbase-server:
     release:  '6.0.5'
     stable:   '6.0.5-3340'
   '6.5':
-    release:  '6.5.1'
+    release:  '6.5.2'
     stable:   '6.5.2-6625'
   '6.6':
     release:  '6.6.1'
-    stable:   '6.6.2-9409'
+    stable:   '6.6.2-9556'
   '7.0':
-    stable:   '7.0.0-4476'
+    stable:   '7.0.0-4554'
 
 # Other_products:
 couchbase-operator:

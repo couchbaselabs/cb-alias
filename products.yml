@@ -10,10 +10,10 @@ couchbase-server:
     release:  '6.5.2'
     stable:   '6.5.2-6625'
   '6.6':
-    release:  '6.6.1'
-    stable:   '6.6.2-9556'
+    release:  '6.6.2'
+    stable:   '6.6.2-9588'
   '7.0':
-    stable:   '7.0.0-4907'
+    stable:   '7.0.0-4960'
 
 # Other_products:
 couchbase-operator:

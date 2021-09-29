@@ -16,7 +16,7 @@ couchbase-server:
     release:  '7.0.1'
     stable:   '7.0.2-6683'
   '7.1':
-    stable:   '7.1.0-1299'
+    stable:   '7.1.0-1345'
 
 # Other_products:
 couchbase-operator:

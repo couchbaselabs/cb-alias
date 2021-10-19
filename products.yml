@@ -13,10 +13,10 @@ couchbase-server:
     release:  '6.6.3'
     stable:   '6.6.4-9920'
   '7.0':
-    release:  '7.0.1'
+    release:  '7.0.2'
     stable:   '7.0.2-6703'
   '7.1':
-    stable:   '7.1.0-1472'
+    stable:   '7.1.0-1504'
 
 # Other_products:
 couchbase-operator:

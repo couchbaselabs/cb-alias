@@ -11,12 +11,12 @@ couchbase-server:
     stable:   '6.5.2-6625'
   '6.6':
     release:  '6.6.3'
-    stable:   '6.6.4-9920'
+    stable:   '6.6.4-9927'
   '7.0':
     release:  '7.0.2'
     stable:   '7.0.2-6703'
   '7.1':
-    stable:   '7.1.0-1601'
+    stable:   '7.1.0-1650'
 
 # Other_products:
 couchbase-operator:

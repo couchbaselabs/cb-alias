@@ -17,9 +17,9 @@ couchbase-server:
     stable:   '7.0.4'
   '7.1':
     release:  '7.1.1'
-    stable:   '7.1.2-3421'
+    stable:   '7.1.2-3422'
   '7.2':
-    stable:   '7.2.0-1853'
+    stable:   '7.2.0-1882'
 
 # Other_products:
 couchbase-operator:

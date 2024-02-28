@@ -19,8 +19,8 @@ couchbase-server:
     release:  '7.1.5'
     stable:   '7.1.6-3954'
   '7.2':
-    release:  '7.2.2-6401'
-    stable:   '7.2.3-6701'
+    release:  '7.2.4-7070'
+    stable:   '7.2.5-7551'
   '7.5':
     stable:   '7.5.0-4670'
   '7.6':

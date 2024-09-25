@@ -26,6 +26,8 @@ couchbase-server:
   '7.6':
     release:  '7.6.1-3202'
     stable:   '7.6.2-3721'
+  '7.7':
+    stable:   '7.7.0-1195'
   '8.0':
     stable:   '8.0.0-1562'
 

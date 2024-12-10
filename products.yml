@@ -19,17 +19,13 @@ couchbase-server:
     release:  '7.1.5'
     stable:   '7.1.6-3954'
   '7.2':
-    release:  '7.2.4-7070'
-    stable:   '7.2.6-8114'
-  '7.5':
-    stable:   '7.5.0-4670'
+    release:  '7.2.6-8114'
+    stable:   '7.2.7-8572'
   '7.6':
-    release:  '7.6.1-3202'
-    stable:   '7.6.2-3721'
-  '7.7':
-    stable:   '7.7.0-1195'
+    release:  '7.6.2-3721'
+    stable:   '7.6.4-5146'
   '8.0':
-    stable:   '8.0.0-1562'
+    stable:   '8.0.0-2221'
 
 # Other_products:
 couchbase-operator:

@@ -20,10 +20,10 @@ couchbase-server:
     stable:   '7.1.6-3954'
   '7.2':
     release:  '7.2.6-8114'
-    stable:   '7.2.7-8572'
+    stable:   '7.2.7-8613'
   '7.6':
     release:  '7.6.4-5146'
-    stable:   '7.6.5-5707'
+    stable:   '7.6.6-6058'
   '8.0':
     stable:   '8.0.0-2221'
 

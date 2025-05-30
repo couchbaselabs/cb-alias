@@ -20,12 +20,12 @@ couchbase-server:
     stable:   '7.1.6-3954'
   '7.2':
     release:  '7.2.6-8114'
-    stable:   '7.2.7-8617'
+    stable:   '7.2.7-8161'
   '7.6':
-    release:  '7.6.6-6126'
-    stable:   '7.6.6-6126'
+    release:  '7.6.6-6125'
+    stable:   '7.6.6-6125'
   '8.0':
-    stable:   '8.0.0-3143'
+    stable:   '8.0.0-3203'
 
 # Other_products:
 couchbase-operator:

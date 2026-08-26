@@ -29,6 +29,8 @@ couchbase-server:
     stable:   '8.0.3-5837'
   '8.1':
     stable:   '8.1.0-2387'
+  '8.5':
+    stable:   '8.5.0-1021'
 
 # Other_products:
 couchbase-operator:

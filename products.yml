@@ -30,7 +30,7 @@ couchbase-server:
   '8.1':
     stable:   '8.1.0-2387'
   '8.5':
-    stable:   '8.5.0-1188'
+    stable:   '8.5.0-1308'
 
 # Other_products:
 couchbase-operator:
